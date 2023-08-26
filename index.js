@@ -1,6 +1,6 @@
 function isPalindrome(word) {
   // Write your algorithm here
-}
+}   
 
 /* 
   Add your pseudocode here
